@@ -9,9 +9,11 @@
 
 # 3 Poster Presentation
 > Pls upload the Poster in Google form link
+> https://drive.google.com/drive/folders/1gcPdIqmlyG2MO06lFJOTKYvHtQ5Kpr3B
 
 # 4 Project Report
 > Pls upload the Project Report PDF in Google form link
+> https://drive.google.com/drive/folders/1gcPdIqmlyG2MO06lFJOTKYvHtQ5Kpr3B
 
 # 5 Project Report in Claude Artifact
 > Submit the Claude Artifact URL link
